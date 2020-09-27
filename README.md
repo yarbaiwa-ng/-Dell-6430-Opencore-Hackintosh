@@ -1,7 +1,14 @@
 # -Dell-6430-Opencore-Hackintosh
 
 
-# Latitude E6430,
+
+
+
+
+# Latitude E6430
+
+
+
 
 # Specs
 macOS Catalina 10.15.6
