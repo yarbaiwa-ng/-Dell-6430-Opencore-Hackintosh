@@ -1,9 +1,9 @@
 # -Dell-6430-Opencore-Hackintosh
 
 
-Dell Latitude E6430,
+# Latitude E6430,
 
-Laptop Specs
+# Specs
 macOS Catalina 10.15.6
 Intel(R) Core(TM) i5-3340M CPU @ 2.70GHz Turbo 3.4Ghz (2 cores, 4 threads)
 Micron 8GB DDR3-RAM @ 1600 Mhz (8KTF51264HZ-1G6E1)
@@ -15,7 +15,7 @@ MATSHITA DVD+/-RW UJ8B2
 
 
 
-What works
+# works
 Sound (in and out)
 Trackpad with gestures
 USB Ports including USB3 and USB2
@@ -29,7 +29,7 @@ SD Card Reader
 HDMI Out
 
 
-Doesn't work natively
+# work natively
 
 Wifi (need to change internal card) ; I use a Atheros 9280 kext fix hackintool
 Line Out after waking up (speakers still work though, see #2)
@@ -38,5 +38,5 @@ VGA out (Not Work but according to some users it can work)
 
 
 
-BIOS Settings
+# Settings
 Once you have the correct BIOS version, go to the BIOS by using the F12 key at boot. Click on "Load defaults" then set SATA Operations to AHCI, set Boot List Option to UEFI and Disable Secure Boot.
