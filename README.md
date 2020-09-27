@@ -31,10 +31,9 @@ SD Card Reader
 HDMI Out
 
 
-# work natively
+# Doesn't work natively
 
 Wifi (need to change internal card) ; I use a Atheros 9280 kext fix hackintool https://github.com/headkaze/Hackintool/releases/
-Line Out after waking up (speakers still work though, see #2)
 Bluetooth (not tested)
 VGA out (Not Work but according to some users it can work)
 
