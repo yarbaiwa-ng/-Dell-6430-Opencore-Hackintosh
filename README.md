@@ -1,8 +1,7 @@
 # -Dell-6430-Opencore-Hackintosh
 
 
-
-
+![alt text](https://github.com/Arewatechnology/-Dell-6430-Opencore-Hackintosh/raw/master/Screenshot%202020-09-27%20at%2011.37.48.png?raw=true)
 
 
 # Latitude E6430
